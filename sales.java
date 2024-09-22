@@ -8,5 +8,3 @@ float myFloatNum = 5.99f;    // Floating point number
 char myLetter = 'D';         // Character
 boolean myBool = true;       // Boolean
 String myText = "Hello";     // String
-byte myNum = 100;
-System.out.println(myNum);
