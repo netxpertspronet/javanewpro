@@ -1,0 +1,14 @@
+public class HelloWorld {
+    public static void main(String[] args) {
+        // Printing a message to the console
+        System.out.println("Hello, World!");
+
+        // Printing a variable to the console
+        int number = 10;
+        System.out.println("The value of number is: " + number);
+
+        // Printing multiple variables
+        String name = "Alice";
+        System.out.println("Hello, " + name + "! You are " + number + " years old.");
+    }
+}
