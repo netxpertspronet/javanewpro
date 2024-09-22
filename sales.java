@@ -15,3 +15,4 @@ System.out.println(txt.indexOf("locate")); // Outputs 7
 String firstName = "John ";
 String lastName = "Doe";
 System.out.println(firstName.concat(lastName));
+Java
