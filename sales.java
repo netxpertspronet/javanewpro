@@ -12,3 +12,6 @@ String txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 System.out.println("The length of the txt string is: " + txt.length());
 String txt = "Please locate where 'locate' occurs!";
 System.out.println(txt.indexOf("locate")); // Outputs 7
+String firstName = "John ";
+String lastName = "Doe";
+System.out.println(firstName.concat(lastName));
